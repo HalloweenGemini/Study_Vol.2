@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[0. Inbox]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>0. Inbox</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 27 May 2024 11:04:12 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 27 May 2024 11:04:11 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[notion.css]]></title><description><![CDATA[ 
+ <br><br>A minimal CSS framework that resembles the aesthetic of the note taking app Notion]]></description><link>elite/vol.2-총론/notion.css-main/readme.html</link><guid isPermaLink="false">Elite/Vol.2 총론/notion.css-main/README.md</guid><pubDate>Fri, 06 Nov 2020 12:15:57 GMT</pubDate></item><item><title><![CDATA[생역학]]></title><description><![CDATA[<a class="tag" href="?query=tag:생역학" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#생역학</a> 
+ <br><a data-href="학생강의_근골격계 생역학 및 치료재료_Pf. 강승백" href="staff-lecture/학생강의_근골격계-생역학-및-치료재료_pf.-강승백.html" class="internal-link" target="_self" rel="noopener">학생강의_근골격계 생역학 및 치료재료_Pf. 강승백</a><br><br><a href=".?query=tag:생역학" class="tag" target="_blank" rel="noopener">#생역학</a> <br><br>
+<br>인체 조직에 일정한 응력을 가하고 시간이 지나면서 점차 변형이 나타나 평형을 이루는 것
+<br><br>
+<br>인장시험에서 파괴전에 물체의 단면적이 국소적으로 감소하는 현상
+<br><br>
+<br>﻿﻿형태의 변화가 있는 경우 형태가 바뀌는 부분이 가장 많은 응력을 받아 다른 부위 보다 쉽게 변형이 발생하는 현상
+<br>﻿﻿정상 장관골의 인장력을 받는 부위에 장관골 직경의 20% 이하 크기의 구멍이 있으면 장관골의 강성이 20-40% 약화
+<br>40% 이상의 구멍이 있으면 매우 심각하게 약화
+<br>﻿﻿금속 나사를 박는 경우에도 응력 집중현상이 발생
+<br><br>
+<br>같은 골량이라 할지라도 큰 외경을 가진 경우 (불가피하게 내경이 커지고, 벽이 얇아지지만)가 작은 외경과 두꺼운 벽을 가진 경우보다 외력에 잘 저항함을 알 수 있다. 그러나 지나치게 외경이 크고 벽이 얇아지면 buckling ratio (external radius/wall thickness)가 10 이상이 되어 쉽게 우그러 지게 된다. 
+<br><br>
+<br>﻿﻿﻿﻿인체 조직에 외력이 주어지고 나서 어느정도 시간이 지난 후 변형이 일어나는 현상은 점탄성에 의하며,<br>
+1. 최대 변형은 탄성의 정도에 의해 결정되고,<br>
+2. 최대 변형에 도달 하는 시간은 점성의 정도에 의해 결정 된다
+<br>﻿﻿﻿﻿탄성 물질과 점탄성 물질의 차이점 중 하나는, 탄성 물질은 하중에 의해 변형될 때 받은 에너지를 물질 자체 내에 축적하였다가 하중이 제거되면 축적되 변형 에너지로 즉시 원상으로 회복되는데, 점탄 성 물질은 변형 에너지 일부만 축적되고 나머지는 열로서 소모되어 버린다는 것이다. 즉 하중을 부과할 때와 제거할 때의 특성이 다르며 이를 이력(hysteresis) 현상이라 한다.<br>
+<img alt="Pasted image 20240401140959.png" src="lib/media/pasted-image-20240401140959.png">
+]]></description><link>elite/vol.2-총론/1.-mechanical-properties-of-materials-.md/1.-mechanical-properties-of-materials-.md.html</link><guid isPermaLink="false">Elite/Vol.2 총론/1. Mechanical properties of materials .md</guid><pubDate>Thu, 25 Apr 2024 06:09:55 GMT</pubDate><enclosure url="lib/media/pasted-image-20240401140959.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240401140959.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[지레]]></title><description><![CDATA[<a class="tag" href="?query=tag:지레" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#지레</a> 
+ <br><a data-href="학생강의_근골격계 생역학 및 치료재료_Pf. 강승백#지레의 종류" href="staff-lecture/학생강의_근골격계-생역학-및-치료재료_pf.-강승백.html#지레의_종류" class="internal-link" target="_self" rel="noopener">학생강의_근골격계 생역학 및 치료재료_Pf. 강승백 &gt; 지레의 종류</a><br><br><a href=".?query=tag:지레" class="tag" target="_blank" rel="noopener">#지레</a> <br><br>
+<br>가장 큰 능률 (lever arm이 길어서 힘이 가장 적게 드는) - 2종 지례
+<br>인체에 가장 많은 지례- 3종 지례
+<br>가장 빠른 지레 (lever arm이 짧아서 힘이 많이 드는) - 3종 지례
+]]></description><link>elite/vol.2-총론/2.-biomechanical-modeling.html</link><guid isPermaLink="false">Elite/Vol.2 총론/2. Biomechanical modeling.md</guid><pubDate>Mon, 01 Apr 2024 05:19:53 GMT</pubDate></item><item><title><![CDATA[Lubrication 윤활]]></title><description><![CDATA[<a class="tag" href="?query=tag:Numbering" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Numbering</a> <a class="tag" href="?query=tag:Numbering" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Numbering</a> 
+ <br><br><br><img alt="Pasted image 20240409161915.png" src="elite/vol.2-총론/pasted-image-20240409161915.png" style="width: 300px; max-width: 100%;"><br><br>
+<br>마찰면이 윤활제를 압축하여 앞으로 밀어서 삼각형 모양의 윤활제 층을 만들어서 마찰면을 떼어 놓는다
+<br><br>
+<br>마찰면이 연골처럼 탄성 변형이 발생 -&gt; 수력 윤활과 유사한 현상 
+<br><br><br>
+<br>윤활액이 압착되면서 점도에 기인한 압력이 발생하여 힘을 떠받치게 된다.
+<br><br>
+<br>관절강으로 스며나온 간질 용액이 윤활액으로 작용<br>
+<img alt="Pasted image 20240409162521.png" src="elite/vol.2-총론/pasted-image-20240409162521.png" style="width: 300px; max-width: 100%;">
+<br><br>
+<br>수분이 활액으로부터 관절 연골로 들어가서 히알유로네이트-단백질 복합체가 농축되어 남께 된다
+<br>-&gt; 점도가 증가해 힘을 받는 능력이 커짐
+<br><br>
+<br>윤활제가 앓게라도 두 접촉면을 덮어 씌어서 두 접촉면을 미끄럽게 한다.
+<br><br><br><br>
+<br>
+Collagen : Resist Shear &amp; Tensile force
+
+<br>
+Proteoglycan : Resist Compression<br>
+<a href=".?query=tag:Numbering" class="tag" target="_blank" rel="noopener">#Numbering</a> 
+
+Numbering<br>
+"Collagen Catches Stretch, Proteoglycan Presses Down."
+
+<br>"Collagen Catches Stretch": 'Catches Stretch'는 collagen이 인장력(tensile force)에 잘 견디며, 마치 넓게 펼쳐진 그물처럼 늘어나는 힘을 '잡아낸다'는 이미지를 사용합니다. 이는 collagen의 인장 저항력을 잘 나타냅니다.
+<br>"Proteoglycan Presses Down": 여전히 proteoglycan이 압축 힘에 강한 저항력을 가진다는 점을 의미합니다.
+
+
+
+<br>
+비교원 단백질, 당단백질 : 기계적인 특성 x, 다른 분자에 붙어 세포의 기능에 영향
+
+<br>anchorin CII : 연골세포를 collagen fiber에 고정(anchoring), 압력 신호를 연골세포에 전달
+<br>COMP : 연골 세포와 결합하는 능력
+
+
+<br><br><br><img alt="Pasted image 20240409164016.png" src="elite/vol.2-총론/pasted-image-20240409164016.png" style="width: 500px; max-width: 100%;"><br><br><br>
+<br>Proteoglycan 가장 적음
+<br>Collagen, 물 가장 많음 -&gt; 인장력에 잘 견딤 
+<br><br>
+<br>표재층과 중간층의 중간 상태. 
+<br><br>
+<br>Proteoglycan 가장 많음 -&gt; 압박력에 잘 견딤
+<br>물, Collagen이 적음. 
+<br>기둥 형태로 연골세포가 배열됨. Collagen도 직각 배열. 
+<br><br>
+<br>수산화인석 침착 기질에 둘러싸임.
+<br><br><br><a href=".?query=tag:Numbering" class="tag" target="_blank" rel="noopener">#Numbering</a> <br>
+Numbering<br>
+"표층은 콜라처럼 투명, 중층은 젤리처럼 진해."
+
+<br>표층은 콜라처럼 투명: 표재층은 collagen과 물이 많아서 비교적 '투명'하고 흐르는 물 같다는 것을 나타냅니다. 여기서 '콜라'는 collagen의 줄임말이며, 음료인 콜라가 투명하진 않지만 발음이 비슷하여 mnemonic으로 사용됩니다.
+<br>중층은 젤리처럼 진해: 중간층은 proteoglycan이 더 많고, collagen과 물이 상대적으로 적기 때문에 '진하다'는 표현을 사용합니다. '젤리'는 proteoglycan의 겔 같은 특성을 연상시킵니다.
+
+<br><img alt="Pasted image 20240409164454.png" src="elite/vol.2-총론/pasted-image-20240409164454.png" style="width: 200px; max-width: 100%;">]]></description><link>elite/vol.2-총론/3.-lubrication_articular-cartilage.html</link><guid isPermaLink="false">Elite/Vol.2 총론/3. Lubrication_Articular cartilage.md</guid><pubDate>Mon, 27 May 2024 07:12:57 GMT</pubDate><enclosure url="elite/vol.2-총론/pasted-image-20240409161915.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;elite/vol.2-총론/pasted-image-20240409161915.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Collagen number]]></title><description><![CDATA[<a class="tag" href="?query=tag:growth_plate" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#growth_plate</a> 
+ <br><br><br><br><br><a href=".?query=tag:growth_plate" class="tag" target="_blank" rel="noopener">#growth_plate</a><br><img alt="Pasted image 20240411160037.png" src="lib/media/pasted-image-20240411160037.png" style="width: 400px; max-width: 100%;"><br><br>
+<br>미성숙한 연골세포, 풍부한 기질로 구성 -&gt; Type II collagen 함량 가장 높다
+<br>드물게 세포분열 -&gt; 길이성장에 관여 x. 
+<br>세포 내 칼슘, 이온화된 칼슘 함량이 가장 적다. 
+<br><br>
+<br>기둥모양으로 배열 
+<br>길이 성장에 관여 
+<br>방사선 조사에 가장 영향을 많이 받는 부위. 
+<br>산소 분압이 높다 -&gt; 단백다당의 합성, 전환이 가장 활발
+<br><br>
+<br>세포외 기질의 합성. 세포 분열의 완성 
+<br><br>
+<br>Type X collagen 
+<br>산소 분압 낮고, 혈관 없음. 
+<br>외력에 약한 부위. 
+]]></description><link>elite/vol.2-총론/4.-collagen-number,-epiphyseal-plate-.md/4.-collagen-number,-epiphyseal-plate-.md.html</link><guid isPermaLink="false">Elite/Vol.2 총론/4. Collagen number, Epiphyseal plate .md</guid><pubDate>Thu, 11 Apr 2024 07:11:18 GMT</pubDate><enclosure url="lib/media/pasted-image-20240411160037.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20240411160037.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[활액막]]></title><description><![CDATA[<a class="tag" href="?query=tag:Numbering" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Numbering</a> 
+ <br><br><br><br>
+<br>A형 : 거식세포
+<br>B형 
+
+<br>가장 흔함. 
+<br>활액 생산
+<br>전해질 , 용해질의 이동 조절 
+
+
+<br>C형 : A, B의 전구세포
+<br><br>
+<br>지방세포, 미분화 간엽세포, 비만세포, 거식세포, 형질세포 등 
+<br>
+Numbering<br>
+<a href=".?query=tag:Numbering" class="tag" target="_blank" rel="noopener">#Numbering</a><br>
+"ABCs in Intima, Subintima Sums it All."
+<br><br>
+<br>A for Appetite: A형 세포는 거식세포(macrophages)로, 'Appetite'는 무언가를 '먹는다'는 의미에서 외우기 쉽습니다.
+<br>B for Basic and Busy: B형 세포는 가장 흔하며 활액을 생산하고, 전해질과 용해질의 이동을 조절합니다. 'Basic'은 가장 기본적이고 흔한 세포, 'Busy'는 활발하게 활동하는 세포를 의미합니다.
+<br>C for Cradle: C형 세포는 A형과 B형의 전구세포로, 'Cradle'은 세포가 발달하는 장소, 즉 원천을 나타냅니다.
+<br><br>
+<br>Sum of Specialists: 하내막은 지방세포, 미분화 간엽세포, 비만세포, 거식세포, 형질세포 등 다양한 세포가 포함되어 있으며, 'Sum of Specialists'는 이 다양한 전문 세포들의 집합을 의미합니다.
+<br><img alt="Pasted image 20240411161247.png" src="elite/vol.2-총론/pasted-image-20240411161247.png" style="width: 500px; max-width: 100%;">]]></description><link>elite/vol.2-총론/5.-synovium_synovial-cell.html</link><guid isPermaLink="false">Elite/Vol.2 총론/5. Synovium_Synovial cell.md</guid><pubDate>Thu, 11 Apr 2024 07:24:15 GMT</pubDate><enclosure url="elite/vol.2-총론/pasted-image-20240411161247.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;elite/vol.2-총론/pasted-image-20240411161247.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Osteoarthritis]]></title><description><![CDATA[<a class="tag" href="?query=tag:Osteoarthritis" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Osteoarthritis</a> <a class="tag" href="?query=tag:Numbering" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Numbering</a> 
+ <br><br><a href=".?query=tag:Osteoarthritis" class="tag" target="_blank" rel="noopener">#Osteoarthritis</a> <br><br><br><br>
+<br>A, B, C -&gt; 발견된 순서 
+<br>4 , 6 -&gt; 갈락토사민에 황산기가 부착된 위치
+<br><br><br><br><br>
+Numbering<br>
+<a href=".?query=tag:Numbering" class="tag" target="_blank" rel="noopener">#Numbering</a><br>
+"정상 콜드 브루, OA 디카페 라떼"
+<br>
+<br>정상 콜드 브루 (Cold Brew):
+
+<br>Col: Collagen(차가움, cold)은 오래두면(노화) 미적지근해진다(감소)
+<br>D brew: Dermatan과 keratan sulfate는 풍부하다 (브루잉 과정에서 풍미를 더하는 성분처럼).
+<br>노화하면 PG(피지)분비가 감소한다
+<br>Chondroitin C(6) 또한 충분하다 
+
+
+<br>OA 디카페 라떼 (Decaf Latte):
+
+<br>Decaf: Dermatan과 keratan sulfate는 감소한다 (디카페처럼 카페인이 제거된 상태).
+<br>Proteoglycan(PG) 분비 여전히 감소 
+<br>Type II Collagen 변질 없이 지속 (디카페 여부와 관계없이 차가움(Cold)은 얼음으로 유지되듯).
+<br>Chondroitin A(4) 증가 
+
+
+<br><br><br><br><br><br>
+<br>IL - 1 
+<br>MMP
+<br>TNF-alpha, beta
+<br>Collagenase
+<br>PGE2 
+<br><br>
+<br>IL - 4, 6, 11
+<br>TIMP
+<br>TGF-beta
+<br>IGF-1
+]]></description><link>elite/vol.2-총론/6.-degenerative-arthritis.html</link><guid isPermaLink="false">Elite/Vol.2 총론/6. Degenerative arthritis.md</guid><pubDate>Mon, 15 Apr 2024 07:16:39 GMT</pubDate></item><item><title><![CDATA[NSAID]]></title><description><![CDATA[ 
+ <br><br><img alt="Pasted image 20240415162500.png" src="elite/vol.2-총론/pasted-image-20240415162500.png" style="width: 500px; max-width: 100%;"><br><br>(1) 위 내막을 정상적으로 유지<br>
+<br>PGI2 (위장관계) : vasodilator, inhibition of Plt. aggregation
+<br>(2) 신장과 혈소판의 기능에 관여<br>
+<br>TXA2 (심혈관) : vasoconstriction, irreversible Plt. aggregation
+<br>PGE2 (신장) : vasodilator, vascular permiability increased
+<br>(3) 족보<br>
+(1) 진통 효과가 더 낮은 용량에서 나타나고 ceiling을 보인다<br>
+(2) 항염 효과가 더 높은 용량에서 나타나고 ceiling을 보이지 않는다.<br>
+(3) 비선택적 NSAID의 위장관 독성은 용량에 비례한다.<br>
+(4) COX-2 선택적 억제제 또한 신독성이 있다.<br><br><br>
+<br>PPI 예방에 효과 있음
+<br>제산제, H2 blocker는 소화불량을 완화시킬 수 있으나 궤양 예방에는 효과가 없으며 오히려 masking effect로 위험성을 증가 시킨다는 보고도 있다. 
+<br><br><br><br><br><br><br><br>
+<br>부작용 : 간독성
+<br><br>
+<br>NE, Serotonin 재흡수 억제
+<br>오심, 구토, 두통 
+<br><br>
+<br>프로스타글란딘이 합성되는 것을 막음
+<br><br>
+<br>급성 심근 경색증에서는 금기
+<br><br>
+<br>대상포진 후 신경통, 당뇨병성 신경병증, CRPS에 효과적이다. 
+]]></description><link>elite/vol.2-총론/7.-nsaid,-steroid,-other-drug.html</link><guid isPermaLink="false">Elite/Vol.2 총론/7.  NSAID, Steroid, Other drug.md</guid><pubDate>Mon, 15 Apr 2024 07:55:43 GMT</pubDate><enclosure url="elite/vol.2-총론/pasted-image-20240415162500.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;elite/vol.2-총론/pasted-image-20240415162500.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[8.  Bone]]></title><description><![CDATA[ 
+ <br><br>
+<br>Mitosis
+
+<br>(Osteoblast, Osteocyte는 더이상 분열하지 않음)
+
+
+<br>Osteoblast로 분화
+<br>Cambium layer, Endosteum, 하버시안 관의 내면에 분포
+<br>성장골의 골간단(metaphysis)의 bone trabecula에 분포
+<br><br>
+<br>Mesenchymal stem cell -&gt; Osteoprogenitor cell -&gt; Osteoblast 
+<br>분열 x 
+<br>염기성 강함. ALP 활성도 강함
+<br>Collagen, Proteoglycan 합성 분비. Osteoid 분비 
+<br>RANK-L 분비. PTH Receptor 가 세포막에 존재. 
+<br><br>
+<br>Ruffled border (주름진)
+<br>Syncytial formation 
+<br>다핵세포 : 단핵구/대식세포 계열의 조혈세포에서 기원. RANK가 활성화되면 기능을 가지게 됨. 
+
+<br>OPG(OsteoProteGerin)에 의해 억제됨
+
+
+<br>Calcitonin에 대한 수용기는 있으나 PTH에 대한 수용기는 없다. 
+<br><img alt="Pasted image 20240418145045.png" src="elite/vol.2-총론/pasted-image-20240418145045.png" style="width: 500px; max-width: 100%;">
+<br><br>
+<br>Cutting cone : Cortical bone에서 osteoclast &amp; osteoblast가 뼈를 재형성하는 것 
+
+<br><img alt="Pasted image 20240418150255.png" src="elite/vol.2-총론/pasted-image-20240418150255.png">
+
+
+<br>Howship's lacuna
+
+<br><img alt="Pasted image 20240418150500.png" src="elite/vol.2-총론/pasted-image-20240418150500.png" style="width: 300px; max-width: 100%;">
+
+
+<br><br>
+<br>분열 x 
+<br>bone lacuna에 위치. (하나 씩만 들어가있다)
+<br>Ca 농도 조절
+<br>특정 자극시 Osteoblast로 되돌아감
+]]></description><link>elite/vol.2-총론/8.-bone.html</link><guid isPermaLink="false">Elite/Vol.2 총론/8.  Bone.md</guid><pubDate>Thu, 18 Apr 2024 06:05:05 GMT</pubDate><enclosure url="elite/vol.2-총론/pasted-image-20240418145045.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;elite/vol.2-총론/pasted-image-20240418145045.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[뼈의 구조와 혈관 시스템]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>
+Haversian canal (해버시안 관)
+
+<br>구성: 한 동맥, 두 정맥, 신경 섬유
+<br>기능: 해버시안 관과 다른 관을 수평으로 연결하여 혈액 순환
+
+
+<br>
+Volkmann's canal (볼크만 관)
+
+<br>구성: 수평 방향
+<br>기능: 해버시안 관을 가로질러 연결, 혈액 공급 역할
+
+
+<br><br>
+<br>영양 동맥
+
+<br>위치: 골간 및 골수, 피질골 안쪽 약 2/3
+<br>기능: 골의 장축을 따라 주행, 중심 동맥으로 영양 공급
+
+
+<br>골간단 동맥 : 골간단 부위
+<br>골단 동맥 : 골단 부위
+<br>골막 동맥 : 피질골 바깥쪽 1/3
+<br><br>
+<br>특징: 모세 혈관이 없음
+<br>기능: 골단 동맥의 모세 혈관으로부터 영양 공급
+<br><br>
+<br>유기질 (콜라겐 I) 35%, 무기질 (칼슘, 인) 45%, 수분 (20%)
+
+<br>기능: 
+
+<br>콜라겐은 골의 전단력과 인장 강도를 담당
+<br>하이드록시아파타이트는 압박력을 담당 
+
+<br>압박력 : Proteoglycan(연골) -&gt; Hydroxyapatite
+<br><a data-href="3. Lubrication_Articular cartilage#Articular cartilage#구조 및 조성" href="elite/vol.2-총론/3.-lubrication_articular-cartilage.html#Articular_cartilage" class="internal-link" target="_self" rel="noopener">3. Lubrication_Articular cartilage &gt; Articular cartilage &gt; 구조 및 조성</a>]
+
+
+
+
+
+
+]]></description><link>elite/vol.2-총론/9.-bone-structure.html</link><guid isPermaLink="false">Elite/Vol.2 총론/9. Bone Structure.md</guid><pubDate>Thu, 18 Apr 2024 06:15:42 GMT</pubDate></item><item><title><![CDATA[근육 섬유의 미세 구조]]></title><description><![CDATA[<a class="tag" href="?query=tag:Numbering" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Numbering</a> 
+ <br><br><img alt="Pasted image 20240418154614.png" src="elite/vol.2-총론/pasted-image-20240418154614.png"><br>
+<br>
+I band
+
+<br>액틴(actin)을 포함한 섬유 부분
+<br>넓이가 변화하며, 밝은색으로 관찰됨
+<br>I band의 중앙에 위치한 Z선(Z line)에 의해 구분됨
+
+
+<br>
+A band
+
+<br>미오신(myosin)을 포함한 섬유 부분
+<br>넓이가 변하지 않고, 어두운색으로 관찰됨
+<br>A band의 중앙에는 H zone이 있고, H zone의 중앙에는 M line이 위치함
+
+
+<br>
+Sarcomere (사르코미어)
+
+<br>Z선(Z line)과 Z선 사이의 구간
+<br>근육 수축과 이완의 기본 단위
+
+
+<br>
+Numbering<br>
+<a href=".?query=tag:Numbering" class="tag" target="_blank" rel="noopener">#Numbering</a> 
+
+<br>I는 1-1-Z:
+
+<br>
+<br>1: I band, 근육의 미세 구조 중 하나입니다.
+<br>1: 이 부분에는 actin이 포함되어 있습니다.
+<br>Z: I band의 가운데에는 Z line이 위치합니다.
+
+-"A Holds My Heart"
+
+
+<br>A: A band, 미오신(myosin)이 포함된 섬유 부분입니다.
+<br>Holds: H zone, A band의 중앙에 위치합니다.
+<br>My Heart: M line, H zone의 가운데 위치하며 근육 섬유의 '심장'과 같은 역할을 합니다.
+<br><br>
+<br>
+근 수축 발생 시
+
+<br>액틴(actin) 섬유가 미오신(myosin) 사이로 들어감
+<br>이로 인해 Z선(Z line) 사이의 거리가 좁아짐
+
+
+<br>
+섬유의 비교
+
+<br>액틴(actin) 섬유는 미오신(myosin) 섬유보다 가늘다
+
+
+]]></description><link>elite/vol.2-총론/11.-skeletal-muscle.html</link><guid isPermaLink="false">Elite/Vol.2 총론/11. Skeletal muscle.md</guid><pubDate>Fri, 19 Apr 2024 06:12:23 GMT</pubDate><enclosure url="elite/vol.2-총론/pasted-image-20240418154614.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;elite/vol.2-총론/pasted-image-20240418154614.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sono (초음파)]]></title><description><![CDATA[<a class="tag" href="?query=tag:Numbering" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Numbering</a> 
+ <br><br><br>
+<br>강한 반사면 존재 시, 변환기와 표면 사이에서 음파가 반복 반사하는 현상
+
+<br>Comet tail artifact: 금속과 같은 작고 강한 반사체 표면에서 수직으로 보이는 강한 에코 현상<br>
+<img alt="Pasted image 20240418170246.png" src="elite/vol.2-총론/pasted-image-20240418170246.png">
+
+
+<br><br>
+<br>낭종 같이 액체로 채워진 구조물의 후방에서 나타나는 음향 감쇄 없이 직진한 초음파가 고형 조직에서 반사되어 에코가 증강되는 현상
+<br><br>
+<br>Ca deposit 같은 강한 반사체로 인해 초음파가 많이 감쇄되고 장기의 후방에서 echogenicity가 감소되는 현상
+
+<br>결과적으로 anechoic 또는 hypoechoic 하게 보임
+
+
+<br><br>
+<br>변환기가 구조물에 수직이 아닐 때, refraction으로 인해 저 에코 영상이 나타나는 현상
+
+<br>근육, 인대, 신경 등이 이방성을 나타내는 구조물
+<br>건의 이방성이 가장 흔히 발생하며, 건 파열과 혼동될 수 있음<br>
+<img alt="Pasted image 20240418170207.png" src="elite/vol.2-총론/pasted-image-20240418170207.png" style="width: 500px; max-width: 100%;">
+
+
+<br><br>
+<br>둥근 표면의 매질을 통과하는 초음파가 굴절되어 그림자로 나타나는 현상
+
+<br>대표적으로 둥근 구조물 가장자리에 vertical hypoechoic bands로 나타남<br>
+<img alt="Pasted image 20240418170152.png" src="elite/vol.2-총론/pasted-image-20240418170152.png" style="width: 500px; max-width: 100%;">
+
+
+<br><br>
+<br>반향된 초음파가 중간 조직에서 재반향되어 실제 종괴보다 더 깊은 부위에 가짜 종괴가 거울에 비친 것처럼 영상화되는 현상<br>
+<img alt="Pasted image 20240418170139.png" src="elite/vol.2-총론/pasted-image-20240418170139.png" style="width: 500px; max-width: 100%;">
+<br><br>
+<br>초음파 빔의 주변부가 주변의 구형 구조물에서 반향되어, 액체가 차있는 조직 내부에 마치 고형물질이 있는 것처럼 보이게 하는 현상<br>
+<img alt="Pasted image 20240418170124.png" src="elite/vol.2-총론/pasted-image-20240418170124.png" style="width: 500px; max-width: 100%;">
+<br><br>
+<br>작은 공기방울이나 국소적인 액체성분 주변에서 발생하는 백색의 그림자 영상
+<br>미세결정이나 미세한 낭종 구조물이 초음파를 지속적으로 공명시켜 발생하는 허상으로, 횡격막, 장관, 금속성 물질, 콜레스테롤 결정이 포함된 폴립이나 선근종증에서 관찰될 수 있음
+<br><img alt="Pasted image 20240418170107.png" src="elite/vol.2-총론/pasted-image-20240418170107.png" style="width: 500px; max-width: 100%;"><br><br><img alt="Pasted image 20240418165812.png" src="elite/vol.2-총론/pasted-image-20240418165812.png" style="width: 500px; max-width: 100%;"><br>
+Numbering<br>
+<a href=".?query=tag:Numbering" class="tag" target="_blank" rel="noopener">#Numbering</a><br>
+T1 시퀀스는 일반적으로 고체성분이 많은 조직에서 낮은 신호를, 지방이 많은 조직에서 높은 신호를 보입니다. 반면, T2 시퀀스는 수분 함량이 높은 조직에서 높은 신호를 보이죠.
+<br>"T1은 낮다, 지방 빼고. T2는 물 빼고 모두 낮다."]]></description><link>elite/vol.2-총론/12.-diagnostic-imaging.html</link><guid isPermaLink="false">Elite/Vol.2 총론/12. Diagnostic imaging.md</guid><pubDate>Thu, 18 Apr 2024 08:02:48 GMT</pubDate><enclosure url="elite/vol.2-총론/pasted-image-20240418170246.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;elite/vol.2-총론/pasted-image-20240418170246.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gait Phases]]></title><description><![CDATA[ 
+ <br><br>
+<br>Double Limb Support: 24% of gait cycle
+<br>Single Limb Support: 76% of gait cycle
+<br><br>
+<br>
+Heel Strike
+
+<br>Tibia: IR
+<br>Ankle: DF
+<br>Subtalar: Eversion
+<br>Chopart: Unlocking
+<br>충격흡수
+
+
+<br>
+Toe Off
+
+<br>Tibia: ER
+<br>Ankle: PF
+<br>Subtalar: Inversion
+<br>Chopart: Locking
+<br>추진
+
+
+<br><br><img alt="Pasted image 20240429151359.png" src="elite/vol.2-총론/pasted-image-20240429151359.png" style="width: 700px; max-width: 100%;"><br><br>
+<br>initial contact (heel strike)
+
+<br>족관절은 중립위, 슬관절은 거의 신전위, 고관절은 약 35도 굴곡위에서 초기 접지 발생
+
+<br>고관절: 약 35도 굴곡 
+<br>슬관절: 거의 신전 
+<br>족관절: 중립위
+
+
+
+
+<br>load response (foot flat)
+
+<br>충격 흡수 혹은 체중 부하 작용
+<br>족근 관절은 하중 반응기 동안 족저 굴곡
+<br>heel을 지렛대로 하는 1단계 rocker 운동 발생하여 충격 흡수
+<br>슬관절은 굴곡 시작하여 발바닥이 지면에 편평하게 닿을 때까지 약 15도 굴곡
+<br>고관절의 신전 시작
+
+<br>고관절: 신전 시작 
+<br>슬관절: 초기 굴곡 후 약 15도 굴곡 
+<br>족관절: 족저 굴곡
+
+
+
+
+<br>mid stance
+
+<br>잠정 에너지 최대, 운동 에너지 최소
+<br>발 뒤꿈치에 위치했던 회전축이 족근관절을 중심으로 전방으로 회전 (2nd rocker)
+<br>족근관절은 중립위에서 최고 10도까지 족배 굴곡
+<br>고관절과 슬관절은 신전 모멘트 작용
+
+<br>고관절: 신전 모멘트 작용 
+<br>슬관절: 신전 모멘트 작용 
+<br>족관절: 중립위에서 최대 10도까지 족배 굴곡
+
+
+
+
+<br>terminal stance (heel off)
+
+<br>추진력 생성, 회전축은 족근관절에서 중족 골두로 이동
+<br>족근관절의 족배 굴곡 진행을 막고, 족저굴곡 유발 (3rd rocker)
+
+<br>고관절: 신전
+<br>슬관절: 굴곡
+<br>족관절: 족저굴곡 유발
+
+
+
+
+<br>pre swing (toe off)
+
+<br>족근관절 빠른 족저굴곡, 슬관절 굴곡, 고관절 굴곡
+
+<br>고관절: 신전-&gt;굴곡
+<br>슬관절: 굴곡
+<br>족관절: 빠른 족저굴곡
+
+
+
+
+<br><br>6. Initial Swing (Acceleration)<br>
+<br>족근 관절을 족저 굴곡에서 족배 굴곡으로 들어올리는 역할 수행
+
+<br>족관절: 족저 굴곡에서 족배 굴곡으로 전환
+
+
+<br>7. Mid Swing<br>
+<br>초기와 말기 유각기 사이에 근육 활동 변화, 거의 근육 활동 없음
+<br>관성에 의해 하지 움직임<br>
+- 발의 이동 속도 최대, 에너지 소모 최소
+<br>8. Terminal Swing (Deceleration)<br>
+<br>감속 발생, 새로운 입각기를 위한 족부의 접지 준비
+<br><br><br><br>
+<br>C: Concentric contraction (동심성 수축) -&gt; motor power
+<br>E: Eccentric contraction (원심성 수축) -&gt; shock absorber
+<br>I: Isometric contraction (등척성 수축) -&gt; stabilizer 
+<br><br>
+<br>
+Iliopsoas
+
+<br>5 (pre swing - toe off): C (motor power)
+
+
+<br>
+Gluteus Maximus
+
+<br>1 (initial contact - heel strike): E (shock absorber)
+<br>2 (load response - foot flat): C (motor power)
+
+
+<br>
+Gluteus Medius
+
+<br>2 (load response - foot flat): I (stabilizer)
+
+
+<br>
+Hamstring
+
+<br>1 (initial contact - heel strike): C (motor power)
+<br>5 (pre swing - toe off): C (motor power)
+<br>6 (initial swing - acceleration): C (motor power)
+<br>8 (terminal swing - deceleration): E (shock absorber)
+
+
+<br>
+Quadriceps
+
+<br>1 (initial contact - heel strike): E (shock absorber)
+<br>2 (load response - foot flat): E (shock absorber)
+<br>5 (pre swing - toe off): I (stabilizer)
+<br>6 (initial swing - acceleration): I (stabilizer)
+
+
+<br>
+Soleus
+
+<br>3 (mid stance): E (shock absorber)
+<br>4 (terminal stance - heel off): C (motor power)
+<br>5 (pre swing - toe off): C (motor power)
+
+
+<br>
+Gastrocnemius
+
+<br>4 (terminal stance - heel off): C (motor power)
+<br>5 (pre swing - toe off): C (motor power)**<br>
+**
+
+
+<br>
+TA (Tibialis Anterior), EDL (Extensor Digitorum Longus), Peroneus Tertius
+
+<br>1 (initial contact - heel strike): E (shock absorber)
+<br>2 (load response - foot flat): E (shock absorber)
+<br>6 (initial swing - acceleration): C (motor power)
+<br>8 (terminal swing - deceleration): I (stabilizer)
+
+
+<br>
+TP (Tibialis Posterior), Peroneus
+
+<br>4 (terminal stance - heel off): I (stabilizer)
+
+
+<br><br>
+<br>
+Steppage Gait (족수 보행)
+
+<br>Foot drop due to loss of dorsiflexion
+<br>족관절의 도슬관절 운동 상실로 인한 발 끌기 보행
+
+
+<br>
+Antalgic Gait (통증성 보행)
+
+<br>Stance phase를 짧게 함
+<br>통증을 최소화하기 위해 입각기 시간을 줄이는 보행
+
+
+<br>
+Trendelenburg Gait
+
+<br>환측 다리로 섰을 때 반대측 골반이 밑으로 떨어짐
+<br>골반의 안정성 문제로 인한 비정상적 보행
+
+
+<br>
+Stiff Knee Gait (경직 슬관절 보행)
+
+<br>Insufficient knee flexion (KF) during swing
+<br>스윙 단계에서 슬관절의 굴곡이 부족하여 발생하는 보행
+
+
+<br>
+Calcaneal Gait (종골 보행)
+
+<br>Walking on the heel
+<br>뒤꿈치로 걷는 보행, 전족부의 사용이 어려울 때 나타남
+
+
+<br>
+<br><img alt="Pasted image 20240429154216.png" src="elite/vol.2-총론/pasted-image-20240429154216.png" style="width: 500px; max-width: 100%;">
+<br>
+<br>
+Crouch Gait
+
+<br>Knee flexion, ankle dorsiflexion, hip flexion
+<br>무릎, 발목, 고관절이 과도하게 굴곡된 상태로 걷는 보행
+
+
+<br>
+Jump Gait
+
+<br>Knee flexion, ankle plantar flexion, hip flexion
+<br>무릎 굴곡, 발목 족저굴곡, 고관절 굴곡을 특징으로 하는 점프하듯이 걷는 보행
+
+
+<br>
+Equinus Gait (첨족보행)
+
+<br>Commonly observed in children with cerebral palsy
+<br>전족부(forefoot)에 의한 최초 접지로 시작, 족저굴곡이 증가하는 이상 보행 양상
+
+
+]]></description><link>elite/vol.2-총론/13.-gait-analysis.html</link><guid isPermaLink="false">Elite/Vol.2 총론/13. Gait analysis.md</guid><pubDate>Mon, 29 Apr 2024 06:59:03 GMT</pubDate><enclosure url="elite/vol.2-총론/pasted-image-20240429151359.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;elite/vol.2-총론/pasted-image-20240429151359.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[14. Physical medicine]]></title><description><![CDATA[ 
+ <br><br>
+<br>목적: 근육의 단단한 띠 (taut band) 내에 있는 통증 유발점을 자극
+<br>증상 및 반응:
+
+<br>근육이 수축하면서 방사통이 생기며 환자는 회피 반응을 보임 (positive jumping sign).
+<br>이환된 근육에 일정한 압박을 가하면 정상보다 딱딱한 과민성 근섬유를 경직된 띠라 하며, 압통점은 이 경직된 중심에서 가장 예민한 부분으로 약 2-5mm 직경의 통증이 있는 작은 결절.
+
+
+<br>도구 및 재료:
+
+<br>25-27G 주사침 사용, 표층 근육에는 27G, 심층 근육에는 25G.
+<br>국소 마취제: 0.5% procaine, 0.25-0.5% lidocaine, 0.125-0.25% bupivacaine.
+<br>스테로이드의 혼합 사용은 국소적으로 근육 독성이 있기 때문에 반복적 사용을 삼가 함.
+
+
+<br><br>
+<br>기술: 20-100 Hz 차이가 나는 2개의 교류 전류를 사용하여 두 개의 사인파가 서로 중첩되면 진폭이 증가 혹은 감소하는 현상을 이용
+<br>특징:
+
+<br>TENS보다 높은 강도의 전류를 흐르게 할 수 있음.
+<br>근수축 효과를 얻을 수 있음.
+
+
+<br><br><br>
+<br>Dry Needle
+
+<br>근육의 압통점 혹은 운동점에 바늘을 찔러 과민화를 줄이고 통증을 경감시키는 방법
+
+
+<br>IMNS (Intra Muscular Nerve Stimulation)
+
+<br>바늘을 끼운 플런저라는 기구를 사용하여 미세 섬유화된 부위의 유착을 해체하고, 신경에 자극을 주어 신경 과민성을 조절하는 방법
+
+
+<br>FIMS (Functional Intra Muscular Stimulation)
+
+<br>난치성 만성 통증 치료에서 수면마취를 시행한 후 방사선 투시 하에 특정 신경의 앞가지 혹은 뒷가지를 자극하는 방법
+<br>주로 경부 신경 총, 액와 신경총, 요부 신경총 등에 바늘을 삽입
+
+
+<br><br><br>
+<br>혈역학적 효과, 신경 근육계에 대한 효과, 관절과 결체 조직에 대한 효과, 기타 효과
+<br><br>
+<br>표재열 (Skin, Subcutaneous Fat)
+
+<br>Hot pack, 적외선, 파라핀욕, 회전욕
+
+
+<br>심부열 (Joints, Muscles, Bones)
+
+<br>단파, 초단파, 초음파
+
+
+<br><br>
+<br>조직속 금속내 고정물이 있어도 사용이 안전
+<br>침투 깊이 비교: 
+
+<br>초음파 (US): 8cm
+<br>단파: 5cm
+<br>마이크로웨이브: 주로 표층근육
+<br>Hot pack: 가장 얕음
+
+
+<br>사용 제한:
+
+<br>소아, 표재성 관절 (예: 무릎)에서는 단파, 초음파, 초단파의 효과가 제한적
+<br>안구나 임신된 자궁, 척추 후궁 절제술을 받은 부위는 피해야 함
+
+
+<br><br><br>
+<br>새로운 골 및 섬유조직 생성을 자극하기 위한 방법
+<br>인대이완 (Ligament Laxity)
+
+<br>지속적인 관절 이상 기능 (Persistent joint dysfunction)
+<br>촉진 가능한 인대 이완 (Palpable ligament laxity)
+
+
+<br>인대에서 기원하는 동통
+
+<br>인대 이완이 관절 이상 기능을 일으키지 않을 수도 있으나, 동통을 유발할 수 있음.
+
+
+<br><br>
+<br>관절내 주사
+
+<br>50% 덱스트로스 5ml + 1% lidocaine 5ml = 25% 덱스트로스
+
+
+<br>관절외 주사
+
+<br>50% 덱스트로스 3ml + 1% lidocaine 2ml + 생리식염수 5ml = 15% 덱스트로스
+
+
+<br><br>
+<br>비인대성 구조의 치료: 예) 근육
+<br>급성 인대 손상 혹은 수상 후 첫 주
+<br>개방성 창상
+<br>고열이 있는 경우 혹은 감염의 징후가 있는 경우
+<br><br><br>
+<br>신경 및 근골격계의 급성과 만성 통증 모두에 효과적
+<br>중추성 통증이나 심한 말초신경 통증에는 효과가 덜 함
+<br><br>
+<br>
+고주파 TENS
+
+<br>10Hz 이상의 주파수 사용
+<br>진통효과가 1-20분 내에 나타나며, 지속시간이 짧음
+
+
+<br>
+저주파 TENS
+
+<br>10Hz 이하의 주파수 사용
+<br>만성 심부 통증에 효과적
+<br>진통효과가 20-30분에 나타나며, 지속시간이 상대적으로 길다
+
+
+<br><br>
+<br>인공 심장 박동기를 착용한 경우 사용을 피해야 함
+<br>경동맥 부위에는 사용을 피해야 함
+<br><br>
+<br>TENS는 주로 통증 완화에 사용되며, NMES (Neuromuscular Electrical Stimulation)는 근육 위축 방지에 주로 사용됨
+<br><br><br>
+<br>치유 촉진
+
+<br>표적 조직의 세포막 과분극 유도 및 유리기 생성을 통해 치유 과정을 촉진
+
+
+<br>혈관 생성 증가
+
+<br>신생 혈관화의 영향으로 혈류 증가를 유발, 혈관 생성 능력 향상
+
+
+<br><br>
+<br>족저 근막염, 주관절의 외상과염, 견관절 석회성 건염, 장골 불유합, 슬개건염, 아킬레스 건염, 대퇴골두 무혈성 괴사 등에 사용됨.
+<br><br><br>TENS (Transcutaneous Electrical Nerve Stimulation)는 통증 완화를 위해 사용되는 비침습적 전기자극 치료 방법입니다. 이 치료법의 기본 원리 중 하나는 Gate Control Theory of Pain입니다. 이 이론은 1965년 Melzack과 Wall에 의해 제안되었으며, 다음과 같은 내용을 포함합니다:<br>
+<br>통증 신호는 척수로 전달되기 전에 신경계의 '게이트'를 통과해야 합니다.
+<br>TENS 장치에서 발생하는 저주파 전기 자극은 A-beta fiber를 활성화시켜 척수 내의 신경 게이트를 '닫게' 만듭니다.
+<br>이 게이트가 닫히면 통증 신호의 척수로의 전달이 차단되어 뇌가 통증을 덜 인지하게 됩니다.
+<br>결과적으로 환자는 통증을 덜 느끼게 되며, 이는 궁극적으로 통증 완화를 가져옵니다.
+<br>TENS는 특히 만성 통증 관리에 유용하며, 다양한 유형의 통증에 대해 안전하고 효과적인 대안을 제공할 수 있습니다.]]></description><link>elite/vol.2-총론/14.-physical-medicine.html</link><guid isPermaLink="false">Elite/Vol.2 총론/14. Physical medicine.md</guid><pubDate>Mon, 29 Apr 2024 08:08:54 GMT</pubDate></item><item><title><![CDATA[15.  Amputation of lower extremity]]></title><description><![CDATA[ 
+ ]]></description><link>elite/vol.2-총론/15.-amputation-of-lower-extremity.html</link><guid isPermaLink="false">Elite/Vol.2 총론/15.  Amputation of lower extremity.md</guid><pubDate>Mon, 29 Apr 2024 08:09:10 GMT</pubDate></item><item><title><![CDATA[Untitled 1]]></title><description><![CDATA[ 
+ ]]></description><link>elite/vol.2-총론/untitled-1.html</link><guid isPermaLink="false">Elite/Vol.2 총론/Untitled 1.md</guid><pubDate>Thu, 25 Apr 2024 06:21:00 GMT</pubDate></item><item><title><![CDATA[Vol.2 총론]]></title><description><![CDATA[ 
+ ]]></description><link>elite/vol.2-총론/vol.2-총론.html</link><guid isPermaLink="false">Elite/Vol.2 총론/Vol.2 총론.md</guid><pubDate>Mon, 27 May 2024 05:45:40 GMT</pubDate></item></channel></rss>
